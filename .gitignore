@@ -1,0 +1,5 @@
+/.devcontainer
+/build
+/partitions_voip_example.csv
+/sdkconfig.defaults
+/sdkconfig.old
